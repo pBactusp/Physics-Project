@@ -1,0 +1,8 @@
+D:\C#\Physics Project\Graph2\Graph2\bin\Debug\Graph2.dll
+D:\C#\Physics Project\Graph2\Graph2\bin\Debug\Graph2.pdb
+D:\C#\Physics Project\Graph2\Graph2\obj\Debug\Graph2.Graph2.resources
+D:\C#\Physics Project\Graph2\Graph2\obj\Debug\Graph2.csproj.GenerateResource.cache
+D:\C#\Physics Project\Graph2\Graph2\obj\Debug\Graph2.csproj.CoreCompileInputs.cache
+D:\C#\Physics Project\Graph2\Graph2\obj\Debug\Graph2.dll
+D:\C#\Physics Project\Graph2\Graph2\obj\Debug\Graph2.pdb
+D:\C#\Physics Project\Graph2\Graph2\obj\Debug\Graph2.csprojAssemblyReference.cache

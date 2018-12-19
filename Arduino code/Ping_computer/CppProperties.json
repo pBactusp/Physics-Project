@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "name": "Visual Micro",
+      "intelliSenseMode": "msvc-x64",
+      "includePath": [
+        "${projectRoot}..\\Ping_computer",
+        "C:\\Program Files (x86)\\Arduino\\libraries",
+        "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries",
+        "${projectRoot}..\\..\\..\\..\\Users\\User\\Documents\\Arduino\\libraries",
+        "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+        "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\mega",
+        "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\avr\\include",
+        "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\avr\\include\\avr",
+        "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\4.8.1\\include",
+        "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\4.9.2\\include",
+        "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\4.9.3\\include"
+      ],
+      "defines": [
+        "__AVR_ATmega2560__",
+        "F_CPU=16000000L",
+        "ARDUINO=10806",
+        "ARDUINO_AVR_ADK",
+        "ARDUINO_ARCH_AVR",
+        "__cplusplus=201103L",
+        "_VMICRO_INTELLISENSE"
+      ]
+    }
+  ]
+}

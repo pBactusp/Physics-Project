@@ -1,0 +1,58 @@
+D:\C#\Physics Project\Physics Project\bin\Debug\Physics Project.exe
+D:\C#\Physics Project\Physics Project\bin\Debug\Physics Project.pdb
+D:\C#\Physics Project\Physics Project\obj\Debug\Physics_Project.mainForm.resources
+D:\C#\Physics Project\Physics Project\obj\Debug\Physics_Project.Grapher.resources
+D:\C#\Physics Project\Physics Project\obj\Debug\Physics_Project.Properties.Resources.resources
+D:\C#\Physics Project\Physics Project\obj\Debug\Physics_Project.Table.resources
+D:\C#\Physics Project\Physics Project\obj\Debug\Physics Project.csproj.GenerateResource.cache
+D:\C#\Physics Project\Physics Project\obj\Debug\Physics Project.csproj.CoreCompileInputs.cache
+D:\C#\Physics Project\Physics Project\obj\Debug\Physics Project.exe
+D:\C#\Physics Project\Physics Project\obj\Debug\Physics Project.pdb
+D:\C#\Physics Project\Physics Project\obj\Debug\Physics Project.csprojAssemblyReference.cache
+D:\C#\Physics Project\Physics Project\obj\Debug\Physics Project.csproj.ResolveComReference.cache
+D:\C#\Physics Project\Physics Project\obj\Debug\Physics_Project.ExportWindow.resources
+D:\C#\Physics Project\Physics Project\obj\Debug\Physics_Project.AllRunsTreeView.resources
+D:\C#\Physics Project\Physics Project\bin\Debug\LiveCharts.dll
+D:\C#\Physics Project\Physics Project\bin\Debug\LiveCharts.Geared.dll
+D:\C#\Physics Project\Physics Project\bin\Debug\LiveCharts.WinForms.dll
+D:\C#\Physics Project\Physics Project\bin\Debug\LiveCharts.Wpf.dll
+D:\C#\Physics Project\Physics Project\bin\Debug\LiveCharts.pdb
+D:\C#\Physics Project\Physics Project\bin\Debug\LiveCharts.xml
+D:\C#\Physics Project\Physics Project\bin\Debug\LiveCharts.WinForms.pdb
+D:\C#\Physics Project\Physics Project\bin\Debug\LiveCharts.WinForms.xml
+D:\C#\Physics Project\Physics Project\bin\Debug\LiveCharts.Wpf.pdb
+D:\C#\Physics Project\Physics Project\bin\Debug\LiveCharts.Wpf.xml
+D:\C#\Physics Project\Physics Project\obj\Debug\Physics Project.csproj.CopyComplete
+D:\C#\Physics Project\Physics Project\bin\Debug\MathNet.Numerics.dll
+D:\C#\Physics Project\Physics Project\bin\Debug\MathNet.Numerics.xml
+D:\C#\Physics Project\Physics Project\obj\Debug\Physics_Project.ColorPicker.resources
+D:\C#\Physics Project\Physics Project\obj\Debug\Physics_Project.SensorSetup.resources
+D:\C#\Physics Project\Physics-Project\Physics Project\obj\Debug\Physics Project.csprojAssemblyReference.cache
+D:\C#\Physics Project\Physics-Project\Physics Project\obj\Debug\Physics Project.csproj.ResolveComReference.cache
+D:\C#\Physics Project\Physics-Project\Physics Project\obj\Debug\Physics_Project.AllRunsTreeView.resources
+D:\C#\Physics Project\Physics-Project\Physics Project\obj\Debug\Physics_Project.ColorPicker.resources
+D:\C#\Physics Project\Physics-Project\Physics Project\obj\Debug\Physics_Project.ExportWindow.resources
+D:\C#\Physics Project\Physics-Project\Physics Project\obj\Debug\Physics_Project.mainForm.resources
+D:\C#\Physics Project\Physics-Project\Physics Project\obj\Debug\Physics_Project.Grapher.resources
+D:\C#\Physics Project\Physics-Project\Physics Project\obj\Debug\Physics_Project.Properties.Resources.resources
+D:\C#\Physics Project\Physics-Project\Physics Project\obj\Debug\Physics_Project.SensorSetup.resources
+D:\C#\Physics Project\Physics-Project\Physics Project\obj\Debug\Physics_Project.Table.resources
+D:\C#\Physics Project\Physics-Project\Physics Project\obj\Debug\Physics Project.csproj.GenerateResource.cache
+D:\C#\Physics Project\Physics-Project\Physics Project\obj\Debug\Physics Project.csproj.CoreCompileInputs.cache
+D:\C#\Physics Project\Physics-Project\Physics Project\obj\Debug\Physics Project.exe
+D:\C#\Physics Project\Physics-Project\Physics Project\obj\Debug\Physics Project.pdb
+D:\C#\Physics Project\Physics-Project\Physics Project\bin\Debug\Physics Project.exe
+D:\C#\Physics Project\Physics-Project\Physics Project\bin\Debug\Physics Project.pdb
+D:\C#\Physics Project\Physics-Project\Physics Project\bin\Debug\LiveCharts.dll
+D:\C#\Physics Project\Physics-Project\Physics Project\bin\Debug\LiveCharts.Geared.dll
+D:\C#\Physics Project\Physics-Project\Physics Project\bin\Debug\LiveCharts.WinForms.dll
+D:\C#\Physics Project\Physics-Project\Physics Project\bin\Debug\LiveCharts.Wpf.dll
+D:\C#\Physics Project\Physics-Project\Physics Project\bin\Debug\MathNet.Numerics.dll
+D:\C#\Physics Project\Physics-Project\Physics Project\bin\Debug\LiveCharts.pdb
+D:\C#\Physics Project\Physics-Project\Physics Project\bin\Debug\LiveCharts.xml
+D:\C#\Physics Project\Physics-Project\Physics Project\bin\Debug\LiveCharts.WinForms.pdb
+D:\C#\Physics Project\Physics-Project\Physics Project\bin\Debug\LiveCharts.WinForms.xml
+D:\C#\Physics Project\Physics-Project\Physics Project\bin\Debug\LiveCharts.Wpf.pdb
+D:\C#\Physics Project\Physics-Project\Physics Project\bin\Debug\LiveCharts.Wpf.xml
+D:\C#\Physics Project\Physics-Project\Physics Project\bin\Debug\MathNet.Numerics.xml
+D:\C#\Physics Project\Physics-Project\Physics Project\obj\Debug\Physics Project.csproj.CopyComplete
