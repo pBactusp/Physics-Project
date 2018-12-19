@@ -10,31 +10,47 @@ namespace Physics_Project
         private string _Name;
 
         private int _Type;
-        public string Type => GlobalData.SensorTypes[_Type];
+        public string TypeS
+        {
+            get { return GlobalData.SensorTypes[_Type]; }
+        }
+        public int Type
+        {
+            get { return _Type; }
+            set { _Type = value; }
+        }
 
-        private int _VccPin,
-            _GroundPin;
-        public int VccPin { get { return _VccPin; } }
-        public int GroundPin { get { return _GroundPin; } }
+        public List<Pin> Pins;
 
-        private int[] _OutputPins;
-        private int[] _InputPins;
+        private int _SampleRate;
+        public int SampleRate
+        {
+            get { return _SampleRate; }
+            set { _SampleRate = value; }
+        }
 
-        private object[] _Args;
 
         public Sensor()
         {
             _Type = 0;
         }
-        public Sensor(string name, int type)
+
+        public Sensor(int type)
         {
-            _Name = name;
+            _SampleRate = 100;
+            Pins = new List<Pin>();
+
             _Type = type;
 
             switch (_Type)
             {
                 case 0:
 
+                    break;
+
+                case 1:
+                    Ultrasonic();
+                    break;
 
 
 
@@ -46,14 +62,21 @@ namespace Physics_Project
 
         private void Ultrasonic()
         {
-            _VccPin = 0;
-            _GroundPin = 0;
-
-            _OutputPins = new int[] { 0 };
-            _InputPins = new int[] { 0 };
+            Pins = new List<Pin>() {
+                new Pin() { Name = "VccPin", Number = 0 },
+                new Pin() { Name = "GroundPin", Number = 0 },
+                new Pin() { Name = "TrigerPin", Number = 0 },
+                new Pin() { Name = "EchoPin", Number = 0 }
+            };
         }
 
 
+    }
+
+    public struct Pin
+    {
+        public string Name;
+        public int Number;
     }
 
 

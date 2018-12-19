@@ -10,8 +10,7 @@ namespace Physics_Project
         public static string[] SensorTypes = new string[]
         {
             "Empty",
-            "Ultrasonic",
-            ""
+            "Ultrasonic"
         };
     }
 }
